@@ -1,0 +1,7 @@
+# IDE
+.vs
+.vscode
+
+# artifacts
+.mypy_cahce
+__pycache__
